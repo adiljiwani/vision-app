@@ -117,8 +117,6 @@ class CameraVC: UIViewController {
             flashControlState = .off
         }
     }
-    
-
 }
 
 extension CameraVC: AVCapturePhotoCaptureDelegate {
